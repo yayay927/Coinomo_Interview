@@ -1,0 +1,28 @@
+.App-header {
+  height: 40px;
+  border-bottom: 1px solid black;
+}
+.App-main {
+  width: 90%;
+  margin: 0 auto;
+}
+.App-intro {
+  margin-top: 6vh;
+}
+.title {
+  font-weight: bold;
+  font-size: 50px;
+  color: #45d09e;
+}
+.summary {
+  font-size: 18px;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+.ArrowUp {
+  transform: rotate(-45deg) !important;
+  -webkit-transform: rotate(-45deg) !important;
+}
+.SpreadTable {
+  display: grid !important;
+}
