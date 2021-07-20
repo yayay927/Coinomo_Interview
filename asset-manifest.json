@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Coinomo_Interview/static/css/main.d0b09898.chunk.css",
+    "main.js": "/Coinomo_Interview/static/js/main.6ccd13db.chunk.js",
+    "main.js.map": "/Coinomo_Interview/static/js/main.6ccd13db.chunk.js.map",
+    "runtime-main.js": "/Coinomo_Interview/static/js/runtime-main.25a1fc7c.js",
+    "runtime-main.js.map": "/Coinomo_Interview/static/js/runtime-main.25a1fc7c.js.map",
+    "static/js/2.548222af.chunk.js": "/Coinomo_Interview/static/js/2.548222af.chunk.js",
+    "static/js/2.548222af.chunk.js.map": "/Coinomo_Interview/static/js/2.548222af.chunk.js.map",
+    "static/js/3.cd9c8377.chunk.js": "/Coinomo_Interview/static/js/3.cd9c8377.chunk.js",
+    "static/js/3.cd9c8377.chunk.js.map": "/Coinomo_Interview/static/js/3.cd9c8377.chunk.js.map",
+    "index.html": "/Coinomo_Interview/index.html",
+    "static/css/main.d0b09898.chunk.css.map": "/Coinomo_Interview/static/css/main.d0b09898.chunk.css.map",
+    "static/js/2.548222af.chunk.js.LICENSE.txt": "/Coinomo_Interview/static/js/2.548222af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25a1fc7c.js",
+    "static/js/2.548222af.chunk.js",
+    "static/css/main.d0b09898.chunk.css",
+    "static/js/main.6ccd13db.chunk.js"
+  ]
+}
